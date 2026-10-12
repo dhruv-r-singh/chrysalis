@@ -12,15 +12,15 @@
 
 ## Contents
 
-1. [2026-10-11 – # Oct 11: Wiring up the wings and finding out my LED matrix can't be routed :O](#2026-10-11-oct-11-wiring-up-the-wings-and-finding-out-my-led)
+1. [2026-10-11 – # Oct 9: Wiring up the wings and finding out my LED matrix can't be routed :O](#2026-10-11-oct-9-wiring-up-the-wings-and-finding-out-my-led-)
 
 ## Design
 
-### 2026-10-11 – # Oct 11: Wiring up the wings and finding out my LED matrix can't be routed :O
+### 2026-10-11 – # Oct 9: Wiring up the wings and finding out my LED matrix can't be routed :O
 
 **4.5h**
 
-# Oct 11: Wiring up the wings and finding out my LED matrix can't be routed :O
+# Oct 9: Wiring up the wings and finding out my LED matrix can't be routed :O
 
 Alright, so today I finally got both wings wired. Before this, everything was just parts sitting on the butterfly shape with nothing connected.
 
