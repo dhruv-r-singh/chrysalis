@@ -8,7 +8,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5h | 1 |
+| Week 1 | Tier 1 | 4.5h | 1 |
 
 ## Contents
 
@@ -18,7 +18,7 @@
 
 ### 2026-10-11 – # Oct 9: Wiring up the wings and finding out my LED matrix can't be routed :O
 
-**5h**
+**4.5h**
 
 # Oct 9: Wiring up the wings and finding out my LED matrix can't be routed :O
 
