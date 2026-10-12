@@ -8,12 +8,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12.5h | 2 |
+| Week 1 | Tier 1 | 13.5h | 2 |
 
 ## Contents
 
 1. [2026-10-11 – # Oct 9: Wiring up the wings and finding out my LED matrix can't be routed :O](#2026-10-11-oct-9-wiring-up-the-wings-and-finding-out-my-led-)
-2. [2026-10-11 – # Oct 11: Trying to route the LED matrix (and it did not go well) :(](#2026-10-11-oct-11-trying-to-route-the-led-matrix-and-it-did-)
+2. [2026-10-11 – ![ProjectChrysalis_EmblemW](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CLPSKhbSjITRP3w3PDLTEM4G6qs4wvKw/0feab22f0b482702763bc807b963962fff3c6f2b590a2f83d582332321f66ff4.png)](#2026-10-11-projectchrysalisemblemwhttpshalflifehackclub-asse)
 
 ## Design
 
@@ -45,9 +45,11 @@ still to do: route the 8x8 matrix, and double check the BME688 pin order, since 
 
 ![rightwing](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CLPSKhbSjITRP3w3PDLTEM4G6qs4wvKw/2c0ff4a9dac175ce5ee92d4d16520c59b5a87cdbfbf7b54e8d7d9d2e368dd53b.png)
 
-### 2026-10-11 – # Oct 11: Trying to route the LED matrix (and it did not go well) :(
+### 2026-10-11 – ![ProjectChrysalis_EmblemW](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CLPSKhbSjITRP3w3PDLTEM4G6qs4wvKw/0feab22f0b482702763bc807b963962fff3c6f2b590a2f83d582332321f66ff4.png)
 
-**8h**
+**9h**
+
+![ProjectChrysalis_EmblemW](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CLPSKhbSjITRP3w3PDLTEM4G6qs4wvKw/0feab22f0b482702763bc807b963962fff3c6f2b590a2f83d582332321f66ff4.png)
 
 # Oct 11: Trying to route the LED matrix (and it did not go well) :(
 
@@ -61,6 +63,7 @@ While that was going on though, i did get a couple of real things done:
 - I added two 4.7k pull-up resistors on SDA and SCL on the left wing for the BME688, and rerouted it (still zero clearance violations in my own check)
 - Created a BOM straight from the new design, so the counts are real: 112 LEDs (WOW!), 5 small resistors, 2 caps, etc.
 - Created an outline of the actual butterfly and rendered it
+- Reworked the logo and resized it on the board
 
 ![ProjectChrysalisOutlineRender](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CLPSKhbSjITRP3w3PDLTEM4G6qs4wvKw/f8407deca39dda7817fc87fcc9f48c4489f7984ab66d03aad7a1d343b34c21a4.png)
 
